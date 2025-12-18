@@ -3,7 +3,7 @@ export const translations = {
     hero: {
       badge: "Essai Gratuit de 21 jours de la Machine D'Embauche",
       lookingFor: "Nous sommes à la recherche de 2 compagnies de plus pour qui la construire",
-      title: "GÉRANTS D'HÔTELS: Obtenez Une Machine D'Embauche Entièrement Automatisée (Presque) Installée Dans Votre Entreprise En 48 Heures, Gratuitement — Clé En Main, Pour Que Vous N'ayez Plus Jamais À Courir Ni À Perdre Les Candidats Les Plus Qualifiés",
+      title: "Obtenez Une Machine D'Embauche Entièrement Automatisée (Presque) Installée Dans Votre Entreprise En 48 Heures, Gratuitement — Clé En Main, Pour Que Vous N'ayez Plus Jamais À Courir Ni À Perdre Les Candidats Les Plus Qualifiés",
       testimonial: "On a traité des dizaines de candidats avec ce système et ça nous a fait gagner une quantité de temps incroyable.",
       guarantee: "SI CETTE MACHINE NE RÉDUIT PAS VOTRE TEMPS D'ADMINISTRATION DE 50 À 86,67% (la rapidité retient les meilleurs candidats) VOUS NE PAYEZ PAS UN CENTIME. ET VOUS GARDEZ TOUT.",
       description: "Pour les hôteliers qui veulent pouvoir embaucher plus efficacement, minimiser au maximum le risque de perdre de bons candidats, toujours avoir des gens à appeler quand le besoin vient et éliminer 10 à 15 heures de travail administratif manuel chaotique et totalement évitable."
