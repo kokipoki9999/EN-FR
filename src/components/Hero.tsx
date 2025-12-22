@@ -30,7 +30,7 @@ export default function Hero() {
             </>
           ) : (
             <>
-              <span className="text-emerald-400">BUSINESS OWNERS:</span> {t.hero.title}
+              <span className="text-emerald-400">SMALL BUSINESS OWNERS:</span> {t.hero.title}
             </>
           )}
         </h1>
