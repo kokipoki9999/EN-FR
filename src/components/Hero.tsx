@@ -26,7 +26,7 @@ export default function Hero() {
         <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight mb-8 max-w-4xl mx-auto text-center">
           {language === 'fr' ? (
             <>
-              <span className="text-emerald-400">PROPRIÉTAIRES D'ENTREPRISE:</span> {t.hero.title}
+              <span className="text-emerald-400">PROPRIÉTAIRES DE PETITES ENTREPRISES:</span> {t.hero.title}
             </>
           ) : (
             <>
